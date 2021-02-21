@@ -30,15 +30,15 @@ const Header = () => {
     return (
         <div>
             <div className="Header">
-                <h1>{ `I'm ${header.name}` }</h1>
-            <p className="line-1 anim-typewriter">I'm Full Stack Developer... </p>
+                <h1>{ `Hi! My name is${header.name}` }</h1>
+            <p className="line-1 anim-typewriter">I'm a Full Stack Developer... </p>
             <label className="switch">
                 <input id="mode-switch" onClick={toggleDarkMode} type="checkbox"/>
                 <span className="slider round"></span>
             </label>
             <HeaderButton/>
             </div>
-            <img id="not-dark" onClick={scrollTo} alt="Go to top" title="Go to top" className="gtp" src="profile.png"></img>
+            <img id="not-dark" onClick={scrollTo} alt="Go to top" title="Go to top" className="gtp" src="icnn.png"></img>
         </div>
     )
     
