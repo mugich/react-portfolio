@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.5ad78da2.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.4e324782.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.4e324782.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.07a1bd65.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.07a1bd65.js.map",
+    "static/css/2.ec02d681.chunk.css": "/react-portfolio/static/css/2.ec02d681.chunk.css",
+    "static/js/2.1e61a532.chunk.js": "/react-portfolio/static/js/2.1e61a532.chunk.js",
+    "static/js/2.1e61a532.chunk.js.map": "/react-portfolio/static/js/2.1e61a532.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/react-portfolio/static/css/2.ec02d681.chunk.css.map",
+    "static/css/main.5ad78da2.chunk.css.map": "/react-portfolio/static/css/main.5ad78da2.chunk.css.map",
+    "static/js/2.1e61a532.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.1e61a532.chunk.js.LICENSE.txt",
+    "static/media/images.css": "/react-portfolio/static/media/whatIsInTheBox.eb4e49cc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07a1bd65.js",
+    "static/css/2.ec02d681.chunk.css",
+    "static/js/2.1e61a532.chunk.js",
+    "static/css/main.5ad78da2.chunk.css",
+    "static/js/main.4e324782.chunk.js"
+  ]
+}
