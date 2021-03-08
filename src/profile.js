@@ -76,16 +76,16 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project5
     id: "project5",
-    name: "Project 5",
-    skills: ["HTML, CSS, JS, REACT"],
-    url: "https://github.com/mugich",
+    name: "Eat Da Burger",
+    skills: ["HTML, CSS, JS, Handlebars, Node, Express"],
+    url: "https://enigmatic-reaches-88280.herokuapp.com/",
   },
   {
     // Add image in './styles/images.css' in #project6
     id: "project6",
-    name: "Project 6",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/mugich",
+    name: "Budget Tracker",
+    skills: ["HTML, CSS, JS, Mongoose"],
+    url: "https://warm-journey-51326.herokuapp.com/",
   },
 ];
 

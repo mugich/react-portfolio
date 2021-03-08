@@ -22,11 +22,11 @@
     cursor: none;
 }
 #project5{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+five');
+    background-image: url('../image/burger.png');
     cursor: none;
 }
 #project6{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+six');
+    background-image: url('../image/budget.png');
     cursor: none;
 }
 /* Miscelaneous Activities photo */
