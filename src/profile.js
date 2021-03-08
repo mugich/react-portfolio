@@ -3,13 +3,13 @@ const header = {
 };
 const background = {
   // Options: Snow or Particle
-  type: "Snow",
+  type: "Particle",
 };
 
 const section2title = "About Me";
 const about = {
   paragraph:
-    "Hi! My name is Mugi Chultemsuren. I am a Full-Stack Developer. I am currently enrolled in a bootcamp at Georgia Tech University for coding in the Atlanta area. I have a background in Network Engineering for 5 years. ",
+    "Hi! My name is Mugi. I am a Full-Stack Developer. I am currently enrolled in a bootcamp at Georgia Tech University for coding in the Atlanta area. I have a background in Network Engineering for 5 years. ",
 };
 
 const skillsBar = [
