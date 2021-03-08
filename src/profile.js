@@ -9,7 +9,7 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "Hi! My name is Mugi. I am a Full-Stack Developer. I am currently enrolled in a bootcamp at Georgia Tech University for coding in the Atlanta area. I have a background in Network Engineering for 5 years. ",
+    "Hi! My name is Mugi. I am a Full-Stack Developer. I successfully completed a coding bootcamp at Georgia Tech University. I have a background in Network Engineering for 5 years. ",
 };
 
 const skillsBar = [
