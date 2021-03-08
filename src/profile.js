@@ -78,14 +78,14 @@ const projects = [
     id: "project5",
     name: "Project 5",
     skills: ["HTML, CSS, JS, REACT"],
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/mugich",
   },
   {
     // Add image in './styles/images.css' in #project6
     id: "project6",
     name: "Project 6",
     skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/mugich",
   },
 ];
 
