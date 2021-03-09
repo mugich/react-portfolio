@@ -1,5 +1,7 @@
 import React from 'react'
 import { contact, section5Title, social } from '../../profile'
+import MyPdf from "../../image/Mugi_resume.pdf" 
+
 
 const Contact = () => {
     
@@ -28,11 +30,11 @@ const Contact = () => {
                     </p>
                 <center>
                 <div className="inline-block">
-                    {social.linkedin && <a title="Visit Linkedin profile" rel="noopener noreferrer" target="_blank"  href={social.linkedin}><i className="fab fa-linkedin"></i></a>}
-                    {social.facebook && <a title="Visit Facebok profile" rel="noopener noreferrer" target="_blank" href={social.facebook}><i className="fab fa-facebook"></i></a>}
+                    {social.linkedin && <a title="Visit LinkedIn profile" rel="noopener noreferrer" target="_blank"  href={social.linkedin}><i className="fab fa-linkedin"></i></a>}
+                    {social.facebook && <a title="Visit Facebook profile" rel="noopener noreferrer" target="_blank" href={social.facebook}><i className="fab fa-facebook"></i></a>}
                     {social.instagram && <a title="Visit Instagram profile" rel="noopener noreferrer" target="_blank" href={social.instagram}><i className="fab fa-instagram"></i></a>}
                     {social.github && <a title="Visit Github profile" rel="noopener noreferrer" target="_blank" href={social.github}><i className="fab fa-github"></i></a>}<br/>
-                    {social.resume && <a title="Download Resume" href={social.resume} download><i className="fas fa-download"></i></a>}
+                    {<a title="Download Resume" href={MyPdf} download><i className="fas fa-download"></i></a>}
                 </div>
                 </center>
                 </div>

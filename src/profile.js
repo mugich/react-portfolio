@@ -56,7 +56,7 @@ const projects = [
     // Add image in './styles/images.css' in #project2
     id: "project2",
     name: "The Game Board",
-    skills: ["JS, HANDLEBARS, EXPRESS"],
+    skills: ["JS, Handlebars, Express"],
     url: "https://thegameboard.herokuapp.com/",
   },
   {
@@ -101,7 +101,7 @@ const social = {
   github: "https://github.com/mugich",
   facebook: "https://facebook.com",
   linkedin: "https://www.linkedin.com/in/mugi-chultemsuren/",
-  resume: "https://novoresume.com/",
+  // resume: "./image/Mugi_resume.pdf",
 };
 
 export {
