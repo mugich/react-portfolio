@@ -1,6 +1,6 @@
 import React from 'react'
 import { contact, section5Title, social } from '../../profile'
-import MyPdf from "../../image/Mugi_resume.pdf" 
+import MyPdf from "../../image/Mugi_Chultemsuren.pdf" 
 
 
 const Contact = () => {
